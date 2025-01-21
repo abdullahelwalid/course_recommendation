@@ -1,0 +1,7 @@
+name: ECR deployment
+
+on:
+  push:
+    branches: [master]
+
+
